@@ -1,4 +1,61 @@
 <h1 align="center">Hi 👋, I'm Khedir Seid</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic Greeting</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #282c34;
+      color: white;
+      margin: 0;
+    }
+    h1 {
+      font-family: Arial, sans-serif;
+      font-size: 2rem;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 3px solid orange;
+      animation: typing 3s steps(30, end), blink-caret 0.5s step-end infinite, bounce 2s infinite;
+      cursor: pointer;
+      transition: transform 0.3s, color 0.3s;
+    }
+    h1:hover {
+      transform: scale(1.2) rotate(5deg);
+      color: orange;
+    }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blink-caret {
+      from, to { border-color: transparent; }
+      50% { border-color: orange; }
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+  </style>
+</head>
+<body>
+  <h1 id="greeting">Hi 👋, I'm Khedir Seid</h1>
+  <script>
+    const greeting = document.getElementById('greeting');
+    greeting.addEventListener('mouseover', () => {
+      greeting.textContent = 'Welcome to my profile!';
+    });
+    greeting.addEventListener('mouseout', () => {
+      greeting.textContent = "Hi 👋, I'm Khedir Seid";
+    });
+  </script>
+</body>
+</html>
 <h3 align="center">A passionate .net(C#) developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedirs&label=Profile%20views&color=0e75b6&style=flat" alt="kedirs" /> </p>
