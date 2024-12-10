@@ -1,14 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khedir Seid</h1>
-    <h1 id="greeting">Hi 👋, I'm Khedir Seid</h1>
-    <script>
-      const greeting = document.getElementById("greeting");
-      greeting.addEventListener("mouseover", () => {
-        greeting.textContent = "Welcome to my profile!";
-      });
-      greeting.addEventListener("mouseout", () => {
-        greeting.textContent = "Hi 👋, I'm Khedir Seid";
-      });
-    </script>
 
    
 <h3 align="center">A passionate .net(C#) developer from Ethiopia</h3>
