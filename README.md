@@ -1,5 +1,15 @@
-<h1 align="center"> السلام عليكم ورحمة الله وبركاته👋, I'm Khedir Seid</h1>
-ا
+<h1 align="center"> السلام عليكم ورحمة الله وبركاته👋</h1> 
+<h1 align="center">
+  <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="#0e75b6">
+      <animateTransform attributeName="transform" type="rotate" from="0 250 50" to="360 250 50" dur="5s" repeatCount="indefinite" />
+      السلام عليكم ورحمة الله وبركاته 👋
+    </text>
+  </svg>
+</h1> 
+
+<h2 align="center"> I'm Khedir Seid</h2>
+ا<
    
 <h3 align="center">A passionate .net(C#) developer from Ethiopia</h3>
 
