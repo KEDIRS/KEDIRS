@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khedir Seid</h1>
-
+<h1 align="center"> السلام عليكم ورحمة الله وبركاته👋, I'm Khedir Seid</h1>
+ا
    
 <h3 align="center">A passionate .net(C#) developer from Ethiopia</h3>
 
