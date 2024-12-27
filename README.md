@@ -1,4 +1,4 @@
-<h1 align="center"> السلام عليكم ورحمة الله وبركاته👋</h1> 
+
 <h1 align="center">
   <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="#0e75b6">
