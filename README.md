@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="#0e75b6">
@@ -9,7 +8,7 @@
 </h1> 
 
 <h2 align="center"> I'm Khedir Seid</h2>
-ا<
+
    
 <h3 align="center">A passionate .net(C#) developer from Ethiopia</h3>
 
